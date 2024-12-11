@@ -1,6 +1,6 @@
 # Surface-Reconstruction-demos
 
-### task_1: Reconstruct surface using point clouds and point normals
+### task_1: Surface reconstruction algorithms (MLs, Poisson, RBF)
 
 
-### task_2: Reshape mesh using physics-based method (FEM Method)
+### task_2: Mesh Simulation using FEM Method.
